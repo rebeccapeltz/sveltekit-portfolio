@@ -17,7 +17,7 @@
 
 
 <svelte:head>
-	<title>SvelteKit Static Blog Starter</title>
+	<title>Becky Peltz Portfolio</title>
 </svelte:head>
 
 

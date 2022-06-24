@@ -1,6 +1,6 @@
 <script>
-  import MainNav from './MainNav.svelte'
-  import HamburgerMenuButton from './HamburgerMenuButton.svelte'
+  // import MainNav from './MainNav.svelte'
+  // import HamburgerMenuButton from './HamburgerMenuButton.svelte'
   import { siteTitle } from '$lib/config'
 
   const focusMain = () => {
@@ -19,7 +19,7 @@
     {siteTitle}
   </a>
   
-  <HamburgerMenuButton />
-  <MainNav />
+  <!-- <HamburgerMenuButton />
+  <MainNav /> -->
 
 </header>
